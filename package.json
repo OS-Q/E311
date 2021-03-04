@@ -1,0 +1,7 @@
+{
+	"name": "N31",
+	"description": "Raspberry Pi Pico SDK",
+	"system": "*",
+	"url": "https://github.com/OS-Q/N31",
+	"version": "0.0.0"
+}
